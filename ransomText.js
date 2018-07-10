@@ -1,7 +1,7 @@
 /* 
-	Name: Amarkant Kumar,
-	Email-id : amar.du2013@gmail.com
-	Contact no: +91-9108529765
+Name: Amarkant Kumar,
+Email-id : amar.du2013@gmail.com
+Contact no: +91-9108529765
 */
 
 let newspapersText =
