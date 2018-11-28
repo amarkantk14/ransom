@@ -1,9 +1,3 @@
-/* 
-Name: Amarkant Kumar,
-Email-id : amar.du2013@gmail.com
-Contact no: +91-9108529765
-*/
-
 let newspapersText =
   "The government said Sanchez used government computers and equipment to steal the identities of at least seven “particularly vulnerable” illegal or undocumented immigrants who were facing deportation or exclusion from the country, the Seattle Times reported. He created fake identification cards in the names of the victims using his own picture and then opened bank accounts and got credit cards in the victims’ names. He even used the photograph of a slain woman published in the press on forged female ID documents.";
 let ransomText = "computers and equipment to steal the identities";
